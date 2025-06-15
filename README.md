@@ -72,9 +72,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Anku-OO7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Words I Code By
-“Code is the closest thing we have to magic.”  
-— Let’s keep building, one commit at a time 🚀
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
+“Code is the closest thing we have to magic. 
+— Let’s keep building, one commit at a time 🚀"
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anku-OO7&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
